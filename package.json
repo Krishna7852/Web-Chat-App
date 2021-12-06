@@ -20,6 +20,7 @@
     "reflect-metadata": "^0.1.13",
     "regenerator-runtime": "0.13.7",
     "rxjs": "^7.0.0",
+    "stylus-loader": "6.2.0",
     "tslib": "^2.0.0"
   },
   "devDependencies": {
